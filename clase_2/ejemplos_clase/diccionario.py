@@ -8,7 +8,7 @@ d['key1']  # accedde al eemento que tiene la clave 'key1' aparece 'item1'
 
 # un ejemplo de uso d diccionarios
 pepito = {'edad': 20, 'Nombre': 'Pepito',
-          'Apellido': 'Perez', 'Estatura': 1.77}
+        'Apellido': 'Perez', 'Estatura': 1.77}
 print(pepito)
 # aparece {'edad': 20, 'Nombre': 'Pepito', 'Apellido': 'Perez', 'Estatura': 1.77}
 print(pepito['Nombre'])
